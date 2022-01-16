@@ -15,6 +15,6 @@ It need we select student or semester, which we want to see.After select the tab
 And the friendly links can view related content about school or other learning website.
 ----------------------------------
 ~~ URL ~~
-
+https://yy115.github.io/project_grades/
 ----------------------------------
 That's all, thanks for your reading!
